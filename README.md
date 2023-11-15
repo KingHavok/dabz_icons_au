@@ -5,6 +5,7 @@ Overview
 dabz_icons_au is a Python script designed to enhance the experience of DAB-Z users in Australia. This script allows users to automatically download and integrate station logos into the DAB-Z Player, a popular digital radio application for Android devices.
 
 Prerequisites
+
 Before using dabz_icons_au, ensure you have the following:
 - The DAB-Z Player installed on your Android device. Download here
 - Python installed on your PC.
