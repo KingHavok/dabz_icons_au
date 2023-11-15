@@ -17,13 +17,13 @@ Getting Started
 3. Transfer JSON File to PC: Move the dabservices.json file from your Android device to your PC.
 
 Installation
-1. Clone the Repository: git clone https://github.com/KingHavok/dabz_icons_au/
+1. Download the script https://github.com/KingHavok/dabz_icons_au/blob/main/stations.py
 2. Install the required Python libraries: pip install requests beautifulsoup4 fuzzywuzzy python-Levenshtein
 
 Usage
 1. Modify the Script for Your Region (if necessary): If you are not in the Melbourne region, modify the script to point to the correct region on the Digital Radio Plus website. Change the URL in the script to match your region, for example, https://www.digitalradioplus.com.au/listen.aspx?region=Sydney.
 2. Run the Script: Execute the dabz_icons_au script on your PC where you have placed the dabservices.json file.
-   python dabz_icons_au.py
+   python stations.py
 3. Script Execution: The script will process the dabservices.json file, download available station logos from Digital Radio Plus, and rename them appropriately.
 4. Transfer Logos to Android Device: Move the renamed .png files to the /documents/DAB/Logos directory on your Android device.
 5. Update Logos in DAB-Z: In the DAB-Z app, go to settings and run a logo scan to update the station logos.
