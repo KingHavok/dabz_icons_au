@@ -29,10 +29,10 @@ Usage
 5. Update Logos in DAB-Z: In the DAB-Z app, go to settings and run a logo scan to update the station logos.
 
 Contributing
-I'm not maintainign this, feel free to fork it and have at it!
+- I'm not maintainign this, feel free to fork it and have at it!
 
 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 Acknowledgments
 1. DAB-Z Player: This script is designed to work in conjunction with the DAB-Z Player for Android. https://play.google.com/store/apps/details?id=com.zoulou.dab&hl=en&gl=US&pli=1
